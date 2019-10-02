@@ -14,6 +14,18 @@ Lecturenotes for the Book Advanced Algorithm Trading
 
 ## :fire: 1.第一章
 - 量化交易的三大主要领域：
-    - Bayesian Statistics （贝叶斯统计：根据资产价格预测未来价格和走势，会用到[`PyMC3`](https://github.com/pymc-devs/pymc3)这个包）
-    - Time Series Analysis （时间序列分析：时序分析的主要思想就是序列相关性`serial correlation`）
-    - Machine Learning （机器学习：支持向量机和随机森林，前者核心是核技术，后者属于集成学习下的bagging分支[人工智能的江湖](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247487227&idx=1&sn=76ac217473fa092abb4fcdd1fee43cd5&chksm=fdb6936ccac11a7a10726c21c64c7bc463550638ede5afb02cc2132421964f61627c1df6c2bc&scene=21#wechat_redirect),这些工具用来生成Alpha（alpha generation）和风险管理（risk management））
+    - Bayesian Statistics （贝叶斯统计）
+        - 根据资产价格预测未来价格和走势，会用到[`PyMC3`](https://github.com/pymc-devs/pymc3)这个包
+        - 共轭 conjugate
+        - 马尔可夫蒙特卡洛 Markov Chain Monte Carlo（priors and posterior）
+        - 论贝叶斯随机波动 stochastic volatility
+    - Time Series Analysis （时间序列分析）
+        - 时序分析的主要思想就是序列相关性`serial correlation`
+        - 白噪声（White Noise）和随机游走（Random Walk）
+        - 整合移动平均自回归模型 Autoregressive Integrated Moving Average (ARIMA) 
+        - 广义自回归条件异方差模型 Generalised Autoregressive Conditional Heteroskedastic (GARCH)
+        - cointegration
+        - 隐马尔可夫模型（Hidden Markov Models）和卡尔曼滤波器（Kalman Filters）
+    - Machine Learning （机器学习）
+        - 支持向量机和随机森林，前者核心是核技术，后者属于集成学习下的bagging分支[人工智能的江湖](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247487227&idx=1&sn=76ac217473fa092abb4fcdd1fee43cd5&chksm=fdb6936ccac11a7a10726c21c64c7bc463550638ede5afb02cc2132421964f61627c1df6c2bc&scene=21#wechat_redirect),这些工具用来生成Alpha（alpha generation）和风险管理（risk management）
+    
