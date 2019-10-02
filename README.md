@@ -94,9 +94,11 @@ in hamiltonian monte carlo.]
     - Salvatier, Fonnesbeck and Wiecki的[PyMC3库](http://
 pymc-devs.github.io/pymc3/notebooks/getting_started.html)
     - 随机波动模型可用于预估股票日收益率的波动性。
+    - 用`pandas_datareader`的`get_data_yahoo`下载美股的交易数据
 
+# :fire: 时序分析
 
-
+## :fire: 7.第七章 时序分析
 
 
 
