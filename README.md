@@ -35,8 +35,12 @@ Lecturenotes for the Book Advanced Algorithm Trading
 - 所需要的技术栈：
     - 数学：线代、微积分、概率论
     - 编程：C C++ C# Java Python R Matlab
-    - 应该先看 [`Successful Algorithmic Trading`](https://www.quantstart.com/)这本书
+    - 应该先看 [`Successful Algorithmic Trading`](https://www.quantstart.com/)这本书，某经济论坛有翻译版，可以对照看。
     - 了解基本的假设检验、回测术语，构建回测系统。
+    - 原书作者的库，模块化做的好，主要用于风险管理和投资组合研究：[QSTrader](https://github.com/mhallsmoore/qstrader)
     - 推荐python 的算法交易库：[PyAlgoTrade](http://gbeced.github.io/pyalgotrade/docs/v0.20/html/tutorial.html)
-    - 推荐原书作者的库：[QSTrader](https://github.com/mhallsmoore/qstrader)
+    - [Quantopian](https://www.quantopian.com) 在线回测平台
+    - [Zipline](https://github.com/quantopian/zipline)
+    - [PySystemTrade](https://github.com/robcarver17/pysystemtrade)
+
     
