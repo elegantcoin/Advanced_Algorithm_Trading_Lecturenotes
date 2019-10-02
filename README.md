@@ -11,3 +11,9 @@ Lecturenotes for the Book Advanced Algorithm Trading
     <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 </p>
 <br />
+
+## :fire: 1.第一章
+- 量化交易的三大主要领域：
+    - Bayesian Statistics （贝叶斯统计）
+    - Time Series Analysis （时间序列分析）
+    - Machine Learning （机器学习）
