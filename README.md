@@ -30,10 +30,13 @@ Lecturenotes for the Book Advanced Algorithm Trading
         - 支持向量机和随机森林，前者核心是核技术，后者属于集成学习下的bagging分支[人工智能的江湖](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247487227&idx=1&sn=76ac217473fa092abb4fcdd1fee43cd5&chksm=fdb6936ccac11a7a10726c21c64c7bc463550638ede5afb02cc2132421964f61627c1df6c2bc&scene=21#wechat_redirect),这些工具用来生成Alpha（alpha generation）和风险管理（risk management）
         - 非线性方法：决策树，支持向量机和随机森林
         - 无监学习：K均值聚类
-- python 的算法交易库：
-[PyAlgoTrade](http://gbeced.github.io/pyalgotrade/docs/v0.20/html/tutorial.html)
+- 
 
 - 所需要的技术栈：
     - 数学：线代、微积分、概率论
     - 编程：C C++ C# Java Python R Matlab
+    - 应该先看 [`Successful Algorithmic Trading`](https://www.quantstart.com/)这本书
+    - 了解基本的假设检验、回测术语，构建回测系统。
+    - 推荐python 的算法交易库：[PyAlgoTrade](http://gbeced.github.io/pyalgotrade/docs/v0.20/html/tutorial.html)
+    - 推荐原书作者的库：[QSTrader](https://github.com/mhallsmoore/qstrader)
     
