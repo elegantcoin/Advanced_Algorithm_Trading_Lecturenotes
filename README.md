@@ -66,9 +66,13 @@ Lecturenotes for the Book Advanced Algorithm Trading
     
 - 先验概率：
     - `Beta`分布：![](https://www.nowcoder.com/equation?tex=P(%5Ctheta%7C%5Calpha%2C%5Cbeta)%20%3D%20%5Ctheta%5E%7B%5Calpha-1%7D(1-%5Ctheta)%5E%7B%5Cbeta-1%7D%2FB(%5Calpha%2C%5Cbeta)&preview=true)
+
+- 共轭先验
+
+- 贝叶斯定律计算后验概率
     
     
-    
+## :fire: 4.第四章 马尔可夫蒙特卡洛
     
     
     
