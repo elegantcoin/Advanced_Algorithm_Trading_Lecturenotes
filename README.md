@@ -61,10 +61,11 @@ Lecturenotes for the Book Advanced Algorithm Trading
     - 5.推论
     
 - 似然函数：
-    - `Bernoulli`分布似然函数：$$P(k\|\theta) = \theta^{k}(1-\theta)^{1-k}$$
+    - `Bernoulli`分布似然函数：![](https://www.nowcoder.com/equation?tex=P(k%7C%CE%B8)%20%3D%20%5Ctheta%5E%7Bk%7D(1-%5Ctheta)%5E%7B1-k%7D&preview=true)
+    - N次实验后：![](https://www.nowcoder.com/equation?tex=P(z%2CN%7C%CE%B8)%20%3D%20%5Ctheta%5E%7Bz%7D(1-%5Ctheta)%5E%7BN-z%7D&preview=true)
     
-    
-    
+- 先验概率：
+    - `Beta`分布：![](https://www.nowcoder.com/equation?tex=P(%5Ctheta%7C%5Calpha%2C%5Cbeta)%20%3D%20%5Ctheta%5E%7B%5Calpha-1%7D(1-%5Ctheta)%5E%7B%5Cbeta-1%7D%2FB(%5Calpha%2C%5Cbeta)&preview=true)
     
     
     
