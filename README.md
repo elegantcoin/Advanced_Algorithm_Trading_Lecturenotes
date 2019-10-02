@@ -32,4 +32,8 @@ Lecturenotes for the Book Advanced Algorithm Trading
         - 无监学习：K均值聚类
 - python 的算法交易库：
 [PyAlgoTrade](http://gbeced.github.io/pyalgotrade/docs/v0.20/html/tutorial.html)
+
+- 所需要的技术栈：
+    - 数学：线代、微积分、概率论
+    - 编程：C C++ C# Java Python R Matlab
     
