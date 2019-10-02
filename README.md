@@ -30,4 +30,6 @@ Lecturenotes for the Book Advanced Algorithm Trading
         - 支持向量机和随机森林，前者核心是核技术，后者属于集成学习下的bagging分支[人工智能的江湖](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247487227&idx=1&sn=76ac217473fa092abb4fcdd1fee43cd5&chksm=fdb6936ccac11a7a10726c21c64c7bc463550638ede5afb02cc2132421964f61627c1df6c2bc&scene=21#wechat_redirect),这些工具用来生成Alpha（alpha generation）和风险管理（risk management）
         - 非线性方法：决策树，支持向量机和随机森林
         - 无监学习：K均值聚类
+- python 自带的算法交易库：
+[PyAlgoTrade](http://gbeced.github.io/pyalgotrade/docs/v0.20/html/tutorial.html)
     
