@@ -67,13 +67,17 @@ Lecturenotes for the Book Advanced Algorithm Trading
 - 先验概率：
     - `Beta`分布：![](https://www.nowcoder.com/equation?tex=P(%5Ctheta%7C%5Calpha%2C%5Cbeta)%20%3D%20%5Ctheta%5E%7B%5Calpha-1%7D(1-%5Ctheta)%5E%7B%5Cbeta-1%7D%2FB(%5Calpha%2C%5Cbeta)&preview=true)
 
-- 共轭先验
+- 共轭先验：用来简化后验分布的计算过程
 
 - 贝叶斯定律计算后验概率
     
     
-## :fire: 4.第四章 马尔可夫蒙特卡洛
-    
-    
+## :fire: 4.第四章 马尔可夫蒙特卡洛(MCMC)
+- 简述：
+    - 共轭先验条件不满足时，可以使用MCMC计算后验分布。
+    - 面对维数灾难，MCMC通过智能跳跃进行无记忆搜索。
+
+- Metropolis算法：
+
     
     
