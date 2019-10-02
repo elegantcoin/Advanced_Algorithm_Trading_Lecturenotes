@@ -77,7 +77,33 @@ Lecturenotes for the Book Advanced Algorithm Trading
     - 共轭先验条件不满足时，可以使用MCMC计算后验分布。
     - 面对维数灾难，MCMC通过智能跳跃进行无记忆搜索。
 
-- Metropolis算法：
+- Metropolis算法
+- PyMC3库
 
+## :fire: 5.第五章 贝叶斯线性回归
+- 简述：
+    - 多元线性回归
+    - 贝叶斯线性回归
+- 贝叶斯线性回归`PyMC3`:
+    - 广义线性模型
     
-    
+## :fire: 6.第六章 贝叶斯随机波动模型
+- 简述：
+    - 霍夫曼和盖尔曼的论文[Hoffman, M. D. and Gelman, A. The no-u-turn sampler: Adaptively setting path lengths
+in hamiltonian monte carlo.]
+    - Salvatier, Fonnesbeck and Wiecki的[PyMC3库](http://
+pymc-devs.github.io/pymc3/notebooks/getting_started.html)
+    - 随机波动模型可用于预估股票日收益率的波动性。
+
+
+
+
+
+
+
+
+
+
+
+
+
