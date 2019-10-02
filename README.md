@@ -52,12 +52,16 @@ Lecturenotes for the Book Advanced Algorithm Trading
     - 贝叶斯概率论通过根据新证据来调整自己对事件的认知来不断减小不确定性。
     - 伯努利试验
     
+## :fire: 3.第三章 二项式贝叶斯
+- 贝叶斯概率检验步骤：
+    - 1.假设
+    - 2.先验概率
+    - 3.实验（数据）
+    - 4.后验概率
+    - 5.推论
     
-    
-    
-    
-    
-    
+- 似然函数：
+    - `Bernoulli`分布似然函数：$$P(k\|\theta) = \theta^{k}(1-\theta)^{1-k}$$
     
     
     
