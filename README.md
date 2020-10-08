@@ -335,7 +335,7 @@ pymc-devs.github.io/pymc3/notebooks/getting_started.html)
 - 交易策略
 - 数据
 - Python QSTrader实施
-    - 每月液体再平衡策略
+    - 每月流动性再平衡策略
     - LiquidateRebalancePositionSizer
     - 回测接口
 
@@ -368,7 +368,7 @@ pymc-devs.github.io/pymc3/notebooks/getting_started.html)
 
 ## :fire: 29.使用QSTrader进行日内收益预测的监督学习
 - 机器学习的预测目标
-    - 班级失衡
+    - 类别失衡
 - 建立历史数据预测模型
 - QSTrader策略对象
 - QSTrader回测脚本
